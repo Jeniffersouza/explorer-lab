@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="rocketpay" src="![image](https://user-images.githubusercontent.com/98287941/197068715-2b1ef1fb-3412-4e0b-bd8d-4b08049586e8.png)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
